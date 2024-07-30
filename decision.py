@@ -12,7 +12,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from matplotlib.colors import ListedColormap
 
-st.image(r"C:\Users\reddy\OneDrive\Desktop\new logo.jpg")
+st.image(r"new logo.jpg")
 # Set the title of the app
 st.title("Decision Surface Visualization")
 
